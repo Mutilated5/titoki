@@ -1,0 +1,25 @@
+{
+    "name": "Mark Lee",
+    "age": 25,
+    "address": {
+        "street": "Scott Light",
+        "city": "Port Christopher",
+        "state": "Louisiana",
+        "zip": "12581"
+    },
+    "contact": {
+        "phone": "+1-326-339-0206",
+        "servicePhone": "800886187"
+    },
+    "birthday": "2000-04-04",
+    "ip": "38.151.180.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth some appear either rule yard. Star blue analysis.\nThis beautiful likely away pay realize another. Picture player son foreign card idea nothing.",
+        "bio": "Hit religious hour page. Four send ask four rock arrive.\nMajority black until attorney travel central father. Piece upon whether. Lawyer theory mouth decide hundred consider individual respond."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
