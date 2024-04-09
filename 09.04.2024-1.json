@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Nash",
+    "age": 6,
+    "address": {
+        "street": "Anne Manor",
+        "city": "New Lawrence",
+        "state": "Tennessee",
+        "zip": "20667"
+    },
+    "contact": {
+        "phone": "9198754433",
+        "servicePhone": "800825191"
+    },
+    "birthday": "2019-25-05",
+    "ip": "184.1.39.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy team later east herself suddenly reason most. Scientist picture little nature officer focus.\nMarriage talk sit note. Prepare old also low throw single statement.",
+        "bio": "Should throw professor skill happy organization him.\nCareer unit five guess. Process event reach development central."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
