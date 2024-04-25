@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Baird DDS",
+    "age": 97,
+    "address": {
+        "street": "Thomas Ports",
+        "city": "Lake Aaron",
+        "state": "South Carolina",
+        "zip": "96326"
+    },
+    "contact": {
+        "phone": "001-276-757-6844",
+        "servicePhone": "800881311"
+    },
+    "birthday": "1928-24-11",
+    "ip": "91.117.181.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Movie teach lose total.\nTop design production kitchen Republican help national. Hundred class nice beautiful soon exist.",
+        "bio": "Data reflect day itself company business road. Sea central free cup.\nHimself writer accept item. Phone recently as kind key stock prove."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
