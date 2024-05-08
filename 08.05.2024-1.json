@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Parks",
+    "age": 92,
+    "address": {
+        "street": "Moreno Branch",
+        "city": "Morganbury",
+        "state": "Maryland",
+        "zip": "12219"
+    },
+    "contact": {
+        "phone": "001-868-369-8001x2573",
+        "servicePhone": "800617204"
+    },
+    "birthday": "1933-03-01",
+    "ip": "188.4.96.70",
+    "foo": "bar",
+    "profile": {
+        "about": "You wait dark military. Easy future whatever quite effort generation. True though good arrive think early. Head we room relationship task as.",
+        "bio": "Meet source popular budget as decade. Place glass heart light local if brother. Pm address culture reflect knowledge exist new."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
