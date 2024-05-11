@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Floyd",
+    "age": 33,
+    "address": {
+        "street": "Carlson Flats",
+        "city": "North Anthonyshire",
+        "state": "Nevada",
+        "zip": "86219"
+    },
+    "contact": {
+        "phone": "219.938.8301x15390",
+        "servicePhone": "800355499"
+    },
+    "birthday": "1992-12-12",
+    "ip": "63.66.201.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Affect class build give coach. Dinner activity program west nice chair.\nLaw fear because best. Free store professional same knowledge window nation. Worry pull outside person.\nCause study better cup.",
+        "bio": "This bill situation charge. Must morning least feel business production imagine model."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
