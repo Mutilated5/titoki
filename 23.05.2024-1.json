@@ -1,0 +1,25 @@
+{
+    "name": "Austin Lang",
+    "age": 106,
+    "address": {
+        "street": "Alvarez Manor",
+        "city": "Lake Tiffany",
+        "state": "Massachusetts",
+        "zip": "19427"
+    },
+    "contact": {
+        "phone": "907.357.1543x945",
+        "servicePhone": "800949983"
+    },
+    "birthday": "1919-12-02",
+    "ip": "108.240.163.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Current situation data professor discover must bar. Although evidence surface strong personal heart growth keep.\nCountry team teach control smile evidence somebody. School around force news.",
+        "bio": "Travel American tell any. Option another condition. Site green likely those back easy shake.\nLess else part little daughter fast know. Charge personal treatment growth bit marriage hold."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
