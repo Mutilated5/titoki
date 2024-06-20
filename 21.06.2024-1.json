@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Garcia",
+    "age": 44,
+    "address": {
+        "street": "Donaldson Vista",
+        "city": "Port Briannatown",
+        "state": "Indiana",
+        "zip": "77419"
+    },
+    "contact": {
+        "phone": "(309)808-8477x464",
+        "servicePhone": "800549925"
+    },
+    "birthday": "1981-28-06",
+    "ip": "90.7.112.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought doctor especially produce way admit theory. Class blue personal discuss.",
+        "bio": "Group wear per election pick relate.\nDoor race spring develop will loss miss. Network draw born writer you billion."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
