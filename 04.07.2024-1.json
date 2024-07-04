@@ -1,0 +1,25 @@
+{
+    "name": "Michael King",
+    "age": 15,
+    "address": {
+        "street": "Erin Ramp",
+        "city": "Jacksonfurt",
+        "state": "South Carolina",
+        "zip": "95105"
+    },
+    "contact": {
+        "phone": "695-330-8469",
+        "servicePhone": "800039065"
+    },
+    "birthday": "2010-10-07",
+    "ip": "165.224.33.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed inside study society partner no. Skin individual picture lead concern language.",
+        "bio": "Sister sit ability eye per base these. Push like hotel red response single factor."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
