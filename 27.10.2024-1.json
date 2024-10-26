@@ -1,0 +1,25 @@
+{
+    "name": "Debra Long",
+    "age": 65,
+    "address": {
+        "street": "Evans Branch",
+        "city": "Tinaton",
+        "state": "Kentucky",
+        "zip": "13141"
+    },
+    "contact": {
+        "phone": "258.709.1650x6917",
+        "servicePhone": "800785628"
+    },
+    "birthday": "1960-25-12",
+    "ip": "124.192.243.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead late situation glass cultural develop rich. Page along son western color travel customer law. Deep your PM religious necessary return author. Trip prove kid off minute part rich.",
+        "bio": "After size skin since material. Lawyer guy leg scene over until create now.\nThird allow tree inside resource security. Chair know camera success. Note agreement agreement sign late field play."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
