@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Freeman",
+    "age": 52,
+    "address": {
+        "street": "King Tunnel",
+        "city": "Daltonland",
+        "state": "Utah",
+        "zip": "49621"
+    },
+    "contact": {
+        "phone": "388.275.6939x9508",
+        "servicePhone": "800910671"
+    },
+    "birthday": "1973-14-07",
+    "ip": "220.42.212.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Beat door prepare country. Result catch provide out site sell. Attorney industry wrong movement best walk under.\nFuture federal discover stay. Me fire spend.",
+        "bio": "Again music interest moment. Hit heavy budget edge. Seven century during see. Sense difference mission pick and."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
