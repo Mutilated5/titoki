@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Barrera",
+    "age": 38,
+    "address": {
+        "street": "Randall Circle",
+        "city": "Jackfort",
+        "state": "Kentucky",
+        "zip": "86708"
+    },
+    "contact": {
+        "phone": "(568)376-5490x041",
+        "servicePhone": "800394474"
+    },
+    "birthday": "1987-08-11",
+    "ip": "195.130.133.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Near task feeling fly left. This sport appear simple begin our.\nInstead draw raise stay eight believe body. Possible group why politics animal else realize read. Everybody approach less.",
+        "bio": "Thank yes amount state. Far at wrong voice why. Least feeling weight similar woman stage economy. Over listen training growth foot whatever.\nGive reveal loss."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
