@@ -1,0 +1,25 @@
+{
+    "name": "Greg Jones",
+    "age": 97,
+    "address": {
+        "street": "Rachel Brook",
+        "city": "New Mathewmouth",
+        "state": "Vermont",
+        "zip": "65336"
+    },
+    "contact": {
+        "phone": "+1-589-252-1558",
+        "servicePhone": "800334733"
+    },
+    "birthday": "1928-06-12",
+    "ip": "59.237.162.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement majority idea letter agree family third. Book note reduce while.\nSeek degree money word debate like although. Very why determine make.\nSide rather itself design bed.",
+        "bio": "Off able interesting win artist cover. Nothing down law interesting yeah.\nThird avoid executive however. According recent there phone ahead company. Sure together me tree."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
