@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Conley",
+    "age": 12,
+    "address": {
+        "street": "Abigail Island",
+        "city": "East Cindy",
+        "state": "Colorado",
+        "zip": "84931"
+    },
+    "contact": {
+        "phone": "820.892.5831x73004",
+        "servicePhone": "800879558"
+    },
+    "birthday": "2013-23-04",
+    "ip": "101.225.1.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Base feel begin put. Though cost nature let control. Base international cell eight.\nPut certain though season discuss. Cause let left outside realize mention.",
+        "bio": "Walk husband position another this PM movie. Ball situation customer. None value that feeling.\nSimply there hold blue seven media. Friend within again so at. Drop experience indicate surface."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
