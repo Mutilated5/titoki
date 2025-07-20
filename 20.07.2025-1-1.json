@@ -1,0 +1,25 @@
+{
+    "name": "Michael Baker",
+    "age": 115,
+    "address": {
+        "street": "Griffin Course",
+        "city": "East Matthew",
+        "state": "Maryland",
+        "zip": "48591"
+    },
+    "contact": {
+        "phone": "408.790.5784x164",
+        "servicePhone": "800319602"
+    },
+    "birthday": "1910-25-06",
+    "ip": "131.85.4.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Where meet three rather their professor. Thousand process staff east brother professional.\nAnything lawyer nature. Building six all officer hospital share. Develop war information the candidate gun.",
+        "bio": "Subject within practice someone. Response identify take relate bring.\nMedical believe than cell. Other none sit may."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
