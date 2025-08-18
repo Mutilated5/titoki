@@ -1,0 +1,25 @@
+{
+    "name": "Connie Galloway",
+    "age": 48,
+    "address": {
+        "street": "Shelby Lakes",
+        "city": "Port Brendatown",
+        "state": "Texas",
+        "zip": "99129"
+    },
+    "contact": {
+        "phone": "(499)381-6560x229",
+        "servicePhone": "800683393"
+    },
+    "birthday": "1977-01-04",
+    "ip": "101.72.144.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Good science first live upon difficult campaign. Expect one identify daughter.\nHistory cultural hot listen democratic officer exactly. Point store begin draw fear hour ahead three.",
+        "bio": "Total author hot example there pick all. Much standard actually line again.\nFast receive create friend early old finally. Score provide PM. Quite feeling power style early these hospital."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
