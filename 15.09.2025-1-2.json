@@ -1,0 +1,25 @@
+{
+    "name": "William Flores",
+    "age": 40,
+    "address": {
+        "street": "Lindsay Locks",
+        "city": "Hallville",
+        "state": "Ohio",
+        "zip": "24516"
+    },
+    "contact": {
+        "phone": "2062380543",
+        "servicePhone": "800064014"
+    },
+    "birthday": "1985-09-06",
+    "ip": "22.204.251.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Piece indeed international hundred citizen step. Happen break station all stuff.\nGas entire source wide. Throughout election party system worker cultural her. Less affect dog second.",
+        "bio": "Pretty front painting. Those mission position step power land early.\nStage research probably. Important measure check easy tax."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

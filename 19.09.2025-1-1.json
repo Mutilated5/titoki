@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Logan",
+    "age": 54,
+    "address": {
+        "street": "Bennett Ferry",
+        "city": "Geraldmouth",
+        "state": "North Dakota",
+        "zip": "16839"
+    },
+    "contact": {
+        "phone": "3886966679",
+        "servicePhone": "800699155"
+    },
+    "birthday": "1971-28-05",
+    "ip": "181.200.178.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer recent many not large another economy. Now dream system age character right method. Think sit others structure.\nFactor news hold plan again. Little involve occur here carry property subject.",
+        "bio": "Business serve say enough later instead with. Law six media example home president into. Good value away view end leader."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
