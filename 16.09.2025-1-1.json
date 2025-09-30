@@ -1,0 +1,25 @@
+{
+    "name": "Phillip Smith",
+    "age": 19,
+    "address": {
+        "street": "Alexander Way",
+        "city": "Port Lindsey",
+        "state": "Delaware",
+        "zip": "67917"
+    },
+    "contact": {
+        "phone": "348.956.1803x7850",
+        "servicePhone": "800580073"
+    },
+    "birthday": "2006-02-01",
+    "ip": "40.195.34.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional Republican mind network several from. Raise religious do then I mission add. Need your word less account.",
+        "bio": "Very shake sister. Support above use far explain score course matter.\nCard audience rate song citizen film edge."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

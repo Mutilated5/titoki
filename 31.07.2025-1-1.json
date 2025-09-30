@@ -1,0 +1,25 @@
+{
+    "name": "Janet Burton",
+    "age": 23,
+    "address": {
+        "street": "Anthony Forks",
+        "city": "Mooreton",
+        "state": "Colorado",
+        "zip": "63105"
+    },
+    "contact": {
+        "phone": "001-714-473-2023",
+        "servicePhone": "800475442"
+    },
+    "birthday": "2002-07-08",
+    "ip": "46.205.11.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect low fly specific eye next. Group baby start best first might morning father. Across natural military head score.\nGive safe subject today smile pattern. Wind subject you space.",
+        "bio": "Great true administration last prevent test why per. Threat rest send. Bit increase perform when speech own."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
