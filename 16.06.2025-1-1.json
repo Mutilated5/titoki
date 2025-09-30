@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Hayes",
+    "age": 17,
+    "address": {
+        "street": "Angela Rest",
+        "city": "Lake Anthony",
+        "state": "Vermont",
+        "zip": "94266"
+    },
+    "contact": {
+        "phone": "(859)285-4882x9854",
+        "servicePhone": "800491611"
+    },
+    "birthday": "2008-12-01",
+    "ip": "44.27.187.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Life property southern main. Space top color seem minute nice later.\nNecessary various set. Role pretty particularly north.",
+        "bio": "Much at local same sell. Official operation until thank site individual. Lot nearly century agree member."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}

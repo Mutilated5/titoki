@@ -1,0 +1,25 @@
+{
+    "name": "Tara Miller",
+    "age": 89,
+    "address": {
+        "street": "Judy Grove",
+        "city": "Lake Wyatt",
+        "state": "New Hampshire",
+        "zip": "71938"
+    },
+    "contact": {
+        "phone": "001-641-994-6916x6892",
+        "servicePhone": "800830942"
+    },
+    "birthday": "1936-09-05",
+    "ip": "3.35.121.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus foreign role floor. Choose send pull care.\nShort size everybody hour assume event within. Quite bag let computer imagine on always.",
+        "bio": "Leave open own technology improve. Military raise have break successful."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
