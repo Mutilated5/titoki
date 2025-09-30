@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Gibson",
+    "age": 9,
+    "address": {
+        "street": "Spears Mount",
+        "city": "East Johnhaven",
+        "state": "New York",
+        "zip": "07979"
+    },
+    "contact": {
+        "phone": "665.581.8304",
+        "servicePhone": "800106873"
+    },
+    "birthday": "2016-17-07",
+    "ip": "1.211.104.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Member camera need chance receive structure guess. Send shake trade executive time five stuff. Trip feel tax treat fish.",
+        "bio": "Without industry help level call. Leader area night matter team skin. This fact decide participant finally stay anything."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}

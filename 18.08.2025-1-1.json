@@ -1,0 +1,25 @@
+{
+    "name": "James Ferguson MD",
+    "age": 59,
+    "address": {
+        "street": "Deanna Squares",
+        "city": "Loganview",
+        "state": "Idaho",
+        "zip": "14396"
+    },
+    "contact": {
+        "phone": "894.946.8820",
+        "servicePhone": "800457743"
+    },
+    "birthday": "1966-25-07",
+    "ip": "46.98.172.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Design seat idea. Role history itself draw. Century stock there leave evening.\nThough center rich threat old everything. Key people you area certainly word matter. Agree compare item decade too.",
+        "bio": "Focus attack stuff give finish box put. Ready reflect when surface.\nBecause off relationship hair near issue. State student travel boy role save way.\nSimply same bank chance. Theory goal right also."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
