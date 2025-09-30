@@ -1,0 +1,25 @@
+{
+    "name": "Juan Rodriguez",
+    "age": 64,
+    "address": {
+        "street": "Ryan Islands",
+        "city": "Jeremyfurt",
+        "state": "Minnesota",
+        "zip": "57276"
+    },
+    "contact": {
+        "phone": "001-823-874-0030",
+        "servicePhone": "800871561"
+    },
+    "birthday": "1961-25-08",
+    "ip": "79.252.50.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Window easy sport body trial capital despite. Various health old family. Ground smile deep movie.\nMajority simple common shake past. Very professional case investment point.",
+        "bio": "Appear low study again huge election reach. Upon knowledge hold ability fight tell. Community Democrat tonight property professor."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

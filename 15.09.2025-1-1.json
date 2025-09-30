@@ -1,0 +1,25 @@
+{
+    "name": "Megan Hoffman",
+    "age": 47,
+    "address": {
+        "street": "Gabriela Stream",
+        "city": "North Holly",
+        "state": "South Dakota",
+        "zip": "35211"
+    },
+    "contact": {
+        "phone": "001-654-978-8573x9346",
+        "servicePhone": "800034706"
+    },
+    "birthday": "1978-25-02",
+    "ip": "161.132.244.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Responsibility effort analysis detail far heavy wrong. Drop through opportunity because region over.\nMeasure meeting impact any your.",
+        "bio": "Often tonight identify discussion talk material. Today smile positive card else allow cost.\nModel as sea team agree. Sell four war safe parent case class."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

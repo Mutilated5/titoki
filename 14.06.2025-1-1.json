@@ -1,0 +1,25 @@
+{
+    "name": "Melvin Sanchez",
+    "age": 78,
+    "address": {
+        "street": "Ramirez Trace",
+        "city": "South Pamela",
+        "state": "Wyoming",
+        "zip": "73668"
+    },
+    "contact": {
+        "phone": "+1-870-985-1339x6556",
+        "servicePhone": "800155474"
+    },
+    "birthday": "1947-24-08",
+    "ip": "71.245.234.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Above cold better put tough his across. More ok ready though. He through likely sense night section.\nFeel skin condition serve six. Pick us catch plan challenge security plan.",
+        "bio": "Lose discuss modern model adult what. Anything fight budget huge explain.\nJoin side sense local until. Until goal serve Congress allow by."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
