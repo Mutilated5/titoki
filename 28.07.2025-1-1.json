@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Villegas",
+    "age": 67,
+    "address": {
+        "street": "Powell Springs",
+        "city": "North Tommy",
+        "state": "Utah",
+        "zip": "23185"
+    },
+    "contact": {
+        "phone": "580.975.4860",
+        "servicePhone": "800929985"
+    },
+    "birthday": "1958-23-09",
+    "ip": "189.234.108.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Group about way star call someone. Appear buy center year with sea.\nMedia everyone artist phone. Hear way that. Others way meet someone tax wonder.",
+        "bio": "Wrong project learn little institution. Contain behind particularly floor class college subject. Will agree itself nothing exist list."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
