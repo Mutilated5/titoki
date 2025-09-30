@@ -1,0 +1,25 @@
+{
+    "name": "Randall Matthews",
+    "age": 8,
+    "address": {
+        "street": "Watson Summit",
+        "city": "West Donaldshire",
+        "state": "Michigan",
+        "zip": "46913"
+    },
+    "contact": {
+        "phone": "(220)932-8542x0689",
+        "servicePhone": "800312842"
+    },
+    "birthday": "2017-28-02",
+    "ip": "175.209.124.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Although former near prevent bill minute must. Fall land yeah. Baby list course.\nResource south worker why.\nDream Republican begin business. Offer because tell hit difficult list teach language.",
+        "bio": "Television program increase argue type.\nJoin culture plant. Spend level would wait save left lot only. Finish rock newspaper body seven.\nAccording environment environmental business season."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
